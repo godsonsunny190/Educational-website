@@ -1,0 +1,16 @@
+/* Media Quary */
+/* Mobile first Media quary */
+@media (min-width:992px){
+    .is-flex{
+        display: flex;
+        align-items: center;
+    }
+
+    header{
+        justify-content: space-around;
+    }
+
+
+
+
+}
